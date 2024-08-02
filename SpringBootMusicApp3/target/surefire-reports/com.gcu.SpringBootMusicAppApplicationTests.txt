@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.gcu.SpringBootMusicAppApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.223 s -- in com.gcu.SpringBootMusicAppApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.113 s -- in com.gcu.SpringBootMusicAppApplicationTests
